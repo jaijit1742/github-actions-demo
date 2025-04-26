@@ -1,0 +1,13 @@
+*.log
+*.zip
+*.exe
+*.mp4
+node_modules/
+dist/
+build/
+.DS_Store
+.env
+coverage/
+.idea/
+.vscode/
+
