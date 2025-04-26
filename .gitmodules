@@ -1,0 +1,3 @@
+[submodule "submodules/BMI"]
+	path = submodules/BMI
+	url = https://github.com/jaijit1742/BMI_Calculator.git
