@@ -1,0 +1,3 @@
+[submodule "submodules/Repo1"]
+	path = submodules/Repo1
+	url = https://github.com/jaijit1742/SCM_Repo1.git
